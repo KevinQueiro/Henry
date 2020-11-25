@@ -1,0 +1,36 @@
+h1{
+
+	text-decoration: underline;
+	
+}
+
+h3{
+
+	color: navy;
+
+}
+
+h4 {
+
+	font-weight: 900;
+}
+
+#foto {
+	height: 300px;
+    width: 250px;  
+    float: right;
+
+}
+
+
+.heavy{
+
+	height: 15px;
+	background-color: black;
+}
+
+.fine{
+
+	height: 2px;
+	background-color:black;
+}
